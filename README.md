@@ -11,14 +11,9 @@ The system detects **people** and **trash objects**, then analyzes their relatio
 
 ---
 
-## Demo
+## Demo Screenshot
 
-Add a screenshot or short demo video here after running the notebook.
-
-Example:
-
-```md
-![Demo Result](assets/demo_screenshot.png)
+![Demo Screenshot](evidence/demo_screenshot.jpeg)
 ```
 
 ---
