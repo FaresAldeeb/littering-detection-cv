@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+conda-env/
+
+# Local datasets and generated folders
+train/
+valid/
+dataset_merged/
+extra_data/
+data/
+dataset/
+
+# YOLO / model outputs
+runs/
+littering_model/
+weights/
+*.pt
+*.onnx
+*.engine
+
+# Generated outputs
+outputs/*.mp4
+outputs/*.avi
+outputs/*.mov
+outputs/*.mkv
+evidence/*.jpg
+evidence/*.png
+graphs/*.png
+graphs/*.jpg
+
+# Large files
+*.zip
+*.rar
+*.7z
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.m4v
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
